@@ -1,0 +1,22 @@
+{
+    "name": "huynh-electron-theme",
+    "displayName": "Huynh Electron Theme",
+    "description": "First customize theme of mine",
+    "version": "0.0.1",
+    "publisher": "Huynh",
+    "engines": {
+        "vscode": "^1.66.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Huynh Electron Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Huynh Electron Theme-color-theme.json"
+            }
+        ]
+    }
+}
