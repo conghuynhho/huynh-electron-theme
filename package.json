@@ -2,6 +2,7 @@
     "name": "huynh-electron-theme",
     "displayName": "Huynh Electron Theme",
     "description": "First customize theme of mine",
+    "repository": "https://github.com/conghuynhho/huynh-electron-theme",
     "version": "0.0.1",
     "publisher": "Huynh",
     "engines": {
